@@ -39,6 +39,6 @@ El proyecto lo realicé en Power BI! <img src=https://github.com/Bearodriguez202
 
 Para poder ver el dashboard primero debe tener descargado Power BI. 
 
-Luego para ver el el proyecto precione [aquí](https://github.com/Bearodriguez2022/RecursosHumanosPowerBI/blob/main/RecursoHumanos.pbix), se descargará y podra verlo.
+Luego para ver el el proyecto precione [aquí](https://github.com/Bearodriguez2022/Supertienda-Power-BI/blob/main/Supertienda.pbix), se descargará y podra verlo.
 
 
