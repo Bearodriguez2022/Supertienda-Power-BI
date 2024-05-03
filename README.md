@@ -1,5 +1,7 @@
 # Supertienda-Power-BI
 
+
+<img src="https://github.com/Bearodriguez2022/Supertienda-Power-BI/blob/main/imagenes/logo%20supertienda.png" alt="logo" width="250"/>
 Tareas a realizar:
 
 1-calcular ventas totales
