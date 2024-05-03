@@ -34,3 +34,11 @@ Avances del Proyecto:
 
 <img src="imagenes/Captura de pantalla (26).png" alt="logo" width="250"/>
 
+El proyecto lo realicé en Power BI! <img src=https://github.com/Bearodriguez2022/RecursosHumanosPowerBI/blob/main/Imagenes/powerBI.jpg alt="powerBI" width="30"/>
+, los datos estan en formato excel.
+
+Para poder ver el dashboard primero debe tener descargado Power BI. 
+
+Luego para ver el el proyecto precione [aquí](https://github.com/Bearodriguez2022/RecursosHumanosPowerBI/blob/main/RecursoHumanos.pbix), se descargará y podra verlo.
+
+
