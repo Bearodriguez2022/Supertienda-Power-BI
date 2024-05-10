@@ -43,4 +43,4 @@ Para poder ver el dashboard primero debe tener descargado Power BI.
 
 Luego para ver el el proyecto precione [aquí](https://github.com/Bearodriguez2022/Supertienda-Power-BI/blob/main/Supertienda.pbix), se descargará y podra verlo.
 
-[Contactame conmigo](betysamat@gmail.com)
+[Contactame conmigo](www.linkedin.com/in/beatrizrodriguez-1b8482210)
