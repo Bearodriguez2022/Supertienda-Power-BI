@@ -32,7 +32,10 @@ Antes de Empezar a trabajar con los datos tuve que hacer una transformación de 
 
 Avances del Proyecto:
 
-<img src="imagenes/Captura de pantalla (26).png" alt="logo" width="250"/>
+<img src="https://github.com/Bearodriguez2022/Supertienda-Power-BI/blob/main/imagenes/Captura%20de%20pantalla%20(31).png" alt="logo" width="200"/>
+
+<img src="https://github.com/Bearodriguez2022/Supertienda-Power-BI/blob/main/imagenes/Captura%20de%20pantalla%20(31).png" alt="logo" width="250"/>
+
 
 El proyecto lo realicé en Power BI! <img src=https://github.com/Bearodriguez2022/RecursosHumanosPowerBI/blob/main/Imagenes/powerBI.jpg alt="powerBI" width="30"/>
 , los datos estan en formato excel.
