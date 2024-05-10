@@ -30,11 +30,12 @@ Tareas a realizar:
 
 Antes de Empezar a trabajar con los datos tuve que hacer una transformación de los mismos como poner en formatos adecuados, ponerles solo dos lugares despúes de la coma, las fechas tenian este formato 41,39 y no permitía cambiarlo; primero cree una nueva columna que representara la cantidad de días transcurridos desde una fecha de referencia, como el 1 de enero de 1900, que es la fecha de inicio para el sistema de fechas utilizado en Excel y otros programas de Microsoft. DAX:Fecha = DATE(1900, 1, 1) + [Fecha de Orden], pero solo daba dos fechas del mes de febrero de 1990, luego me dí cuenta del error que era la ' , ' que no permitía hacer la transformación.
 
-Avances del Proyecto:
+. Proyecto:
+
 <img src="https://github.com/Bearodriguez2022/Supertienda-Power-BI/blob/main/imagenes/presentacion.png" alt="logo" width="300"/>
 <img src="https://github.com/Bearodriguez2022/Supertienda-Power-BI/blob/main/imagenes/Captura%20de%20pantalla%20(31).png" alt="logo" width="300"/>
 <img src="https://github.com/Bearodriguez2022/Supertienda-Power-BI/blob/main/imagenes/Captura%20de%20pantalla%20(32).png" alt="logo" width="300"/>
-<img src="https://github.com/Bearodriguez2022/Supertienda-Power-BI/blob/main/imagenes/conlusión.png" alt="logo" width="300"/>
+<img src="https://github.com/Bearodriguez2022/Supertienda-Power-BI/blob/main/imagenes/conclusion.png" alt="logo" width="300"/>
 
 El proyecto lo realicé en Power BI! <img src=https://github.com/Bearodriguez2022/RecursosHumanosPowerBI/blob/main/Imagenes/powerBI.jpg alt="powerBI" width="30"/>
 , los datos estan en formato excel.
@@ -43,5 +44,6 @@ Para poder ver el dashboard primero debe tener descargado Power BI.
 
 Luego para ver el el proyecto precione [aquí](https://github.com/Bearodriguez2022/Supertienda-Power-BI/blob/main/Supertienda.pbix), se descargará y podra verlo.
 
-- [Comunicate conmigo](https://www.linkedin.com/in/bearodriguez/#:~:text=www.linkedin.com/in/bearodriguez) 
+- [Comunicate conmigo](https://www.linkedin.com/in/bearodriguez/#:~:text=www.linkedin.com/in/bearodriguez)
+- [betysamat@gmail.com](betysamat@gmail.com)
 
